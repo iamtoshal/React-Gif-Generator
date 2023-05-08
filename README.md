@@ -1,2 +1,3 @@
 # Preview of the project is available at : - 
-[random-gif-generator-website.netlify.app](random-gif-generator-website.netlify.app)
+
+<a href="random-gif-generator-website.netlify.app" target="_blank">Random gif generator</a>
